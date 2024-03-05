@@ -12,7 +12,7 @@ The problem of delayed diagnosis in Multiple Sclerosis (MS) is multifaceted, pre
 ### Our Solution: MS insight 
 MS insight is a comprehensive, patient-focused app that offers an innovative approach to MS diagnosis and management.It leverages advanced artificial intelligence and machine learning algorithms to provide accurate and efficient diagnosis results, providing them with treatment recommendations.The diagnostic test results obtained through our app assist healthcare professionals in confirming their diagnosis.Our app provides a diagnosis within minutes, enabling early intervention and improved patient outcomes. It's a game-changer in the world of healthcare.
 
-## 1Software Architecture
+## Software Architecture
 The application is divided into three parts, the client, the server and Deep Learning models.Following the technologies used to develop the application:
 
 ### Frontend Development with React Native
@@ -25,8 +25,10 @@ Artificial intelligence plays a central role in the MS insight app, as it enable
 
 ## Getting Started
 ### for the client side :
-open MS-App folder then use - npm i  to install package
-then run app by -  npx expo start 
+1- open MS-App folder 
+2- use - npm i  to install package
+3- run app by -  npx expo start 
 ### for the server side : 
-open MS Backend (API) folder then use pip install -r requirements.txt  to install package 
-the run server by - python app.py 
+1- open MS Backend (API) folder
+2- use pip install -r requirements.txt  to install package 
+3- run server by - python app.py 
