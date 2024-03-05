@@ -1,40 +1,11 @@
-# Precise
-Precise is a Web-Based 3D visualization and editing application for surgical simulation of tumor resection.
+# MS insight: 
+An Intelligent Diagnostic Assistant Harnessing AI for Early Detection and Comprehensive Management of Multiple Sclerosis.
 
-The authors wish to acknowledge the Tuscany Region (Italy) for co-funding the PRECISE project (BANDO RICERCA SALUTE 2018), which originated and made possible this research.
+## About MS insight project
+Detection and classification of diseases frequently relies on manual assessment by specialists across various medical fields. Consequently, the diagnostic process and monitoring of disease progression tend to be meticulous yet time-consuming. However, certain diseases, such as multiple sclerosis (MS), present formidable hurdles due to the imperative of timely diagnosis. Delayed detection of MS can lead to grave repercussions for patients, underscoring the need for innovative solutions to aid in early detection. The objective of this paper is to propose a mobile phone-based system designed to facilitate the early and accurate diagnosis of MS. Leveraging advancements in technology, our system aims to empower healthcare professionals, including newly graduated doctors, with tools to detect MS efficiently and reliably. By providing accessible and user-friendly diagnostic capabilities on a mobile platform, our system seeks to enhance the sensitivity and speed of MS diagnosis, thereby improving patient outcomes and quality of care. Through the integration of cutting-edge algorithms and medical knowledge, our proposed system represents a promising step towards addressing the diagnostic challenges associated with MS
 
-<div style=" display: flex">
-     <div style="flex: 1; padding-right: 5px;">
-          <img src="./img/projects.png" width="400"/>
-     </div>
-     <div style="flex: 1; padding-left: 5px;">
-          <img src="./img/editor.png" width="400"/>
-     </div>
-</div>
-
-## Table of Contents
-
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-        <a href="#about-the-project">About The Project</a>
-    </li>
-    <li>
-      <a href="#tech-stack">Tech stack</a>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#setup">Setup</a></li>
-      </ul>
-    </li>
-  </ol>
-</details>
-
-## About the project
-The Precise application is part of the [Precise Project](https://www.preciseproject.it/). The idea originating the PRECISE project comes from the urgent need of researching, innovate, integrate and validate existing and novel 3D technologies in a new objective unified framework for enabling in the current clinical practice, patient-specific methods and tools for the training, the simulation, the intervention and the follow-up of personalized surgical approaches. Such technologies include CAD, Reverse Engineering, Additive Manufacturing, and Virtual and Augmented Reality. <br>
-The Precise application is developed to create a project, import STL files, and visualize those files as 3D images and it gives the possibility to edit and interact with these images through specialized tools. The application is compatible with tablets.
+## Solution: 
+# Our Solution: MS insight 
 
 ## Tech stack
 The application is divided into two parts, the client and the server. it is written completely in JavaScript. Following the technologies used to develop the application:
