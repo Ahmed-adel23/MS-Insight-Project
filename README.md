@@ -36,7 +36,17 @@ Artificial intelligence plays a central role in the MS insight app, as it enable
       Run app by -  npx expo start 
     </li>
   </ol>
+  
 ### for the server side : 
-1- open MS Backend (API) folder
-2- use pip install -r requirements.txt  to install package 
-3- run server by - python app.py 
+<ol>
+    <li>
+        Open MS Backend (API) folder
+    </li>
+    <li>
+        Use pip install -r requirements.txt  to install package 
+    </li>
+    <li>
+        Run server by - python app.py 
+    </li>
+  </ol>
+  
