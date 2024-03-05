@@ -25,21 +25,15 @@ Artificial intelligence plays a central role in the MS insight app, as it enable
 
 ## Getting Started
 ### for the client side :
-1- open MS-App folder 
-2- use - npm i  to install package
-3- run app by -  npx expo start 
 <ol>
     <li>
-        <a href="#about-the-project">About The Project</a>
+        Open MS-App folder
     </li>
     <li>
-      <a href="#tech-stack">Tech stack</a>
+      Use - npm i  to install package
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#setup">Setup</a></li>
-      </ul>
+      Run app by -  npx expo start 
     </li>
   </ol>
 ### for the server side : 
